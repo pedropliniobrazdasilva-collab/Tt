@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Lobby Bot",
+  "description": "Simulate and manage CS2 match lobby queues, automated captains selection, automated team creation, and map vetos (including Overpass).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
